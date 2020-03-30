@@ -150,3 +150,6 @@ USE_MINIKIN := true
 
 # Include an expanded selection of fonts
 EXTENDED_FONT_FOOTPRINT := true
+
+# ViPER4Android FX Control Panel: Select the libv4a.so driver to dload
+VIPER4ANDROID_MODE := NEON_HQ
